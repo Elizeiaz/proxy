@@ -11,4 +11,7 @@ Proxy
    что прокси — это и есть реальный человек. Только не вы. 
 ***
 ###Скачать проект:
-git clone https://github.com/Elizeiaz/Proxy.git
+    git clone https://github.com/Elizeiaz/Proxy.git
+
+####Запуск:
+    python -m proxy

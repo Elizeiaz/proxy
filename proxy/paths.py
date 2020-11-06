@@ -25,7 +25,3 @@ class Path:
     @property
     def log_dir(self):
         return os.path.join(self.root, "log")
-
-    @property
-    def log_properties(self):
-        return os.path.join(self.log_dir, "log.properties")
